@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MaterialTabs</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="one">Fragment One</string>
+    <string name="two">Fragment two</string>
+    <string name="three">Fragment three</string>
+    <string name="four">Fragment four</string>
+    <string name="five">Fragment five</string>
+
+    <!--
+    <string name="six">Fragment six</string>
+    <string name="seven">Fragment seven</string>
+    <string name="eight">Fragment eight</string>
+    <string name="nine">Fragment nine</string>
+    <string name="ten">Fragment ten</string>
+    -->
+
+</resources>
